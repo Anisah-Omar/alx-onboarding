@@ -1,0 +1,11 @@
+// Enter three numbers A, B C
+// if A>B 
+// true 
+//is A>C   yes
+// print A is the largest
+// is B>C  yes
+// print B is the largest  
+// is B>C   no
+//print C is the largest
+// is A>C   no
+// print C is the largest

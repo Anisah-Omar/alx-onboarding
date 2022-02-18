@@ -1,0 +1,9 @@
+//start
+//enter a number
+//process  sum=0 
+//process i=1
+//if i<=number
+// process  sum = sum+(i*1)
+// i= i+1
+// print sum 
+stop

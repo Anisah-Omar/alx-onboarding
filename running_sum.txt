@@ -1,0 +1,5 @@
+// enter a number
+// total = 0
+// if number > 0
+// true or yes add number to total
+// if false or no print total
